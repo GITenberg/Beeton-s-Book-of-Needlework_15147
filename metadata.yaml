@@ -1,0 +1,36 @@
+_repo: Beeton-s-Book-of-Needlework_15147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beeton, Mrs. (Isabella Mary)
+    aliases:
+    - Beeton, Isabella Mary Mayson
+    - Mayson, Isabella Mary
+    birthdate: 1836
+    deathdate: 1865
+    gutenberg_agent_id: '3324'
+    url: http://www.gutenberg.org/2009/agents/3324
+    wikipedia: http://en.wikipedia.org/wiki/Mrs_Beeton
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2005-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Needlework -- Patterns'
+- !lcsh 'Knitting'
+- !lcsh 'Crocheting'
+- !lcc 'TT'
+- !lcsh 'Lace and lace making'
+title: Beeton's Book of Needlework
+url: http://www.gutenberg.org/ebooks/15147
